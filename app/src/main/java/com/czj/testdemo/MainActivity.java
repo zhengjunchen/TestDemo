@@ -13,5 +13,11 @@ public class MainActivity extends AppCompatActivity {
 
         Log.e("TAG", "onCreate: " + "我修改了diamagnetic");
 
+
+
+    }
+
+    public int add(int i , int j){
+        return i + j;
     }
 }
