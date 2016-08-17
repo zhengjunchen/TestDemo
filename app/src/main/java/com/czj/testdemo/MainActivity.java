@@ -14,6 +14,10 @@ public class MainActivity extends AppCompatActivity {
         Log.e("TAG", "onCreate: " + "我修改了diamagnetic");
 
 
+        for (int i = 0; i < 10; i++) {
+            Log.e("TAG", "onCreate: aa增加的代码");
+        }
+
 
     }
 
